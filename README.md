@@ -29,5 +29,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width=40>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width=40>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width=40>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width=40>
+         
     </div>
 </div>
