@@ -12,7 +12,7 @@
 
 ### Acerca de mi :
 
-- 📝 Actualmente estoy estudiando ReactJS
+- 📝 Actualmente estoy estudiando Angular
 - 📂 Mi Portfolio es :...
 - 📧 Mi contacto es : aspeelucas@gmail.com
 - 👔 Mi linkedin : https://www.linkedin.com/in/lucas-aspee/
