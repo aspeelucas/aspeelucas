@@ -29,7 +29,17 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width=40>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width=40>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width=40>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width=40>
-         
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width=40>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width=40>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width=40>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" width=40>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width=40>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" width=40>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width=40>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width=40>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=40>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width=40>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=40>
+        <img src="" width=40>
     </div>
 </div>
