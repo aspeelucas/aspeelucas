@@ -2,7 +2,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/ENVmkrTmnniqQ/giphy.gif" width="200">
     <h1 align="center">Hola Bienvenido/a 👋!</h1>
-    <h3 align="center">Mi nombre es Lucas Aspee, soy desarrollador web Front-End . Actualmente vivo en La Rioja, provincia de Argentina. En este espacio pretendo mostrar los proyectos en los que actualmente estoy trabajando y aquellos que ya están  finalizados. Soy una persona que le gusta estar en constante mejora y aprendizaje  . 
+    <h3 align="center">Mi nombre es Lucas Aspee, soy desarrollador Full Stack . Actualmente vivo en La Rioja, provincia de Argentina. En este espacio pretendo mostrar los proyectos en los que actualmente estoy trabajando y aquellos que ya están  finalizados. Soy una persona que le gusta estar en constante mejora y aprendizaje  . 
 </h3>
 </div>
 
