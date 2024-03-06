@@ -26,6 +26,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=40>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=40 >
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=40>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width=40>
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=40>
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width=40>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width=40>
